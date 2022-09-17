@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hamzapab
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front end web devolpment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React.js , Sass , Boostrap
+- 🚀  I'm currently working on Some Project on Frontend-mentor and self project
 
 <!---
 Hamzapab/Hamzapab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
